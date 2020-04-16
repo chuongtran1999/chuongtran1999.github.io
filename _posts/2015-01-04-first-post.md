@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: Thank you for watching!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+
